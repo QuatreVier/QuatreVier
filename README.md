@@ -15,7 +15,7 @@ Actualmente se programar en varios lenjuages (y modulos) pero no soy un experto 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
     <br>
 ![NODE](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white) 
-![ANGULAR](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
    <br>
 
 Como anteriormente mencione no soy un experto pero si se hacer algunas cosas en ellos 
@@ -27,16 +27,6 @@ Tambien manejo algunas bases de datos como lo son:
     <br>
 ![JSON](https://img.shields.io/badge/JSON-430098?style=for-the-badge&logo=json&logoColor=yellow)
 
-##
-Si se que los editores de codigo no cuentan pero se manejar estos editores:
-
-![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-    <br>
-![VS](https://img.shields.io/badge/Visual_Studio-7b10d5?style=for-the-badge&logo=visual%20studio&logoColor=white)
-    <br>
-![SUBLIME](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
-    <br>
-![PYCHAM](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
 ##
 Gracias por ver mi perfil y espero que encuentres algo util, si encuentras algun error ya sea en el codigo u ortografia de antemano pido disculpas
