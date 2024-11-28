@@ -4,7 +4,7 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC--YDQCsfO6XRa4vf6HW2ZQYOwmATcBPv5LdpoPwRDZXcgsoxqbTruYNgPzOUZuTOEKk&usqp=CAU" width="60" height="60"/>
     <img src="https://media.discordapp.net/attachments/775505367404511254/858511801552601118/emoji.png" width="60" height="60" align="right"/> 
 </div>
-Hola, actualmente soy estudiante de mecatronia, programo para poder distraerme de mis problemas y pasar el tiempo
+Hola, actualmente soy estudiante Físico-Matematico, programo para poder distraerme de mis problemas y pasar el tiempo
 
 ## 
 
