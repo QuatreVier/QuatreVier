@@ -1,6 +1,6 @@
 # Mi perfil
 
-Hola, actualmente soy estudiante estoy estudiando por mi cuenta, programó para poder distraerme de mis problemas y pasar el tiempo.
+Hola, actualmente estoy estudiando por mi cuenta, programó para poder distraerme de mis problemas y pasar el tiempo.
 
 ## 
 
