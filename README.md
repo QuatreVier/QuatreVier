@@ -4,7 +4,7 @@ Hola, actualmente estoy estudiando por mi cuenta, programó para poder distraerm
 
 ## 
 
-Actualmente se programar en varios lenguajes pero no soy un experto en ellos, solamente trato de mejorar. Los lenjuages que estoy aprendiendo son:
+Actualmente se programar en varios lenguajes pero no soy un experto en ellos, solamente trato de mejorar. Los lenguajes que estoy aprendiendo son:
 
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
     <br>
